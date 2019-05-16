@@ -1,9 +1,6 @@
 
 # coding: utf-8
 
-# In[2]:
-
-
 # 1. Import system modules
 import arcpy
 import os
@@ -354,9 +351,6 @@ if inFeatures_GeologicLines:
   
 if inFeatures_ContactsAndFaults: 
       contactsLayer()
-
-
-# In[ ]:
 
 
 
